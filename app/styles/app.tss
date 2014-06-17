@@ -1,0 +1,12 @@
+"Window": {
+	backgroundColor: "#eeeeee"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+"TextField": {
+	borderStyle: Titanium.UI.INPUT_BORDERSTYLE_BEZEL,
+	backgroundColor: '#fff'
+}
