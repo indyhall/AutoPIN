@@ -1,0 +1,38 @@
+'Window': {
+	layout: 'vertical' 
+},
+'#urlLabel': {
+	top: '45dip',
+	right: '15dip',
+	left: '15dip',
+},
+'#url': {
+	keyboardType: Titanium.UI.KEYBOARD_URL,
+	top: '7dip',
+	right: '15dip',
+	left: '15dip',
+	enableReturnKey: true,
+	returnKeyType: Titanium.UI.RETURNKEY_NEXT
+},
+'#pinLabel': {
+	top: '15dip',
+	right: '15dip',
+	left: '15dip'
+},
+'#pin': {
+	passwordMask: true,
+	keyboardType: Titanium.UI.KEYBOARD_NUMBER_PAD,
+	maxLength: 4,
+	top: '7dip',
+	right: '15dip',
+	left: '15dip',
+	font: {
+		fontSize: 60
+	},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER
+},
+'#save': {
+	top: '15dip',
+	right: '15dip',
+	left: '15dip'
+}

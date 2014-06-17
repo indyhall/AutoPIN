@@ -1,0 +1,11 @@
+<Alloy>
+	<Window>
+		<Label id="urlLabel">Space URL:</Label>
+		<TextField id="url"></TextField>
+		
+		<Label id="pinLabel">Key Pad PIN:</Label>
+		<TextField id="pin"></TextField>
+		
+		<Button id="save">Save Settings</Button>
+	</Window>
+</Alloy>
