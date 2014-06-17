@@ -1,0 +1,13 @@
+'Window': {
+	backgroundColor: '#ff4e00'
+},
+'#hook': {
+	width: '155dip',
+	height: '183dip',
+	backgroundImage: 'lock-hook.png'
+},
+'#base': {
+	width: '192dip',
+	height: '182dip',
+	backgroundImage: 'lock-base.png'	
+}

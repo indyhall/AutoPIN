@@ -1,5 +1,6 @@
 <Alloy>
 	<Window>
-		<Label id="proximity">-- Feet</Label>
+		<View id="hook" />
+		<View id="base" />
 	</Window>
 </Alloy>
